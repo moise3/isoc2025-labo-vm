@@ -1,0 +1,28 @@
+# Fichiers Vagrant
+.vagrant/
+*.box
+.vagrant/
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*~
+.DS_Store
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers de clés SSH (si générés localement)
+*.pem
+*.key
+!*.example.key
+
+# Répertoires de build/compilation (selon vos besoins)
+build/
+dist/
+target/
+
