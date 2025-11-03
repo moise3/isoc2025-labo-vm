@@ -119,5 +119,5 @@ Pour plus d'informations :
 
 ## Auteur
 
-ISOC2025 - Laboratoire Pratique
+Moise Kameni | ISOC2025 - Laboratoire Pratique
 
